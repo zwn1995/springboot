@@ -1,5 +1,6 @@
 package com.zwn.springboot.entity;
 
+
 public class Task {
 	private int id;
 	private String Content;
